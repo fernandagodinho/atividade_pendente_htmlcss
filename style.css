@@ -1,0 +1,7 @@
+h1{
+font-family: Arial, Helvetica, sans-serif;
+width: 100%;
+background-color: dimgrey;
+display: flex;
+justify-content: space-around;
+}
